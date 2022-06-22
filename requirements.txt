@@ -16,7 +16,7 @@ keyboard==0.13.4
 lxml==4.4.2
 more-itertools==8.0.2
 namedlist==1.7
-numpy==1.18.1
+numpy==1.22.0
 outcome==1.0.1
 packaging==19.2
 pandas==0.25.3
